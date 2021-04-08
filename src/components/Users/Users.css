@@ -1,0 +1,27 @@
+.user-card img {
+    width: 350px;
+    height: 300px;
+}
+
+.user-card {
+    border: 1px solid;
+    margin-bottom: 20px;
+}
+
+.title {
+    text-align: center;
+    font-size: large;
+}
+
+.age {
+    text-align: center;
+    font-size: large;
+    color: rgb(244, 245, 239);
+    background: rgb(8, 196, 64);
+}
+
+.country {
+    text-align: center;
+    font-size: large;
+    color: rgb(235, 76, 2);
+}

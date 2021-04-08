@@ -1,0 +1,35 @@
+
+.btns-groups {
+    text-align: center;
+    margin: 5px 5px;
+}
+
+.btn {
+    margin: 5px 5px;
+    border-style: none;
+    cursor: pointer;
+    width: 100px;
+    background: none;
+    margin: 10px 0;
+    font-size: large;
+}
+
+.btn:hover {
+    color: rgb(17, 100, 133);
+}
+
+.containers {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+.Onbtnn{
+    display: flex;
+
+}
+.country{
+    display: flex;
+    justify-content: space-between;
+    margin: 60px;
+}
